@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(160, 246, 219);
+}
+.main-heading{
+    color: darkcyan;
+
+    font-size: 48px;
+    font-weight: 400;
+    font-family: 'Water Brush', cursive;
+
+    text-align: center;
+    text-decoration: underline wavy cadetblue 10px;
+    text-transform: capitalize;
+}
+.page-link{
+    background-color: white;
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: normal;
+    text-decoration: none;
+}
+.art-content{
+    color: cornflowerblue;
+    font-size: 18px;
+    
+    font-family: 'Lato', sans-serif;
+    line-height: 1.3em;
+    text-align: justify;
+    text-indent: 1.5em;
+}
